@@ -1,1 +1,4 @@
-# i_am_rich
+# i_am_rich 
+(mimic app)
+
+FLUTTER APP
